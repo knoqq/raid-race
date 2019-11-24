@@ -27,7 +27,7 @@ rules
     - cannot be used to skip encounters, rooms, puzzles, or anything that would break a requirement
     - should be clarified with a referee before use
     - are otherwise up to the interpretation of the referee(s)
-    - knwon and accepted glitches:
+    - known and accepted glitches:
         - Riven single-phase
 
 ### raid decision

@@ -90,3 +90,13 @@ eligible captains
 8. r90thunder
 9. jerky
 10. slayth
+
+draft
+-------
+| Azazel | R90Thunder  |
+-------------------------
+| NibNub | LordNexus   |
+| Wolfie | MannyMan    |
+| Omni   | Jerky       |
+| Slayth | jbell       |
+| knoq   | Walrus      |

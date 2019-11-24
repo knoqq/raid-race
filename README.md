@@ -94,7 +94,7 @@ eligible captains
 draft
 -------
 | Azazel | R90Thunder  |
--------------------------
+---------|---------------
 | NibNub | LordNexus   |
 | Wolfie | MannyMan    |
 | Omni   | Jerky       |

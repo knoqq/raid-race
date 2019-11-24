@@ -80,4 +80,13 @@ raids
 eligible captains
 -------------------
 
-1. 
+1. azazel
+2. jbell
+3. nexus
+4. mannyman
+5. wolfie
+6. nibnub
+7. omni
+8. r90thunder
+9. jerky
+10. slayth

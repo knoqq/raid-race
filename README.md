@@ -11,12 +11,12 @@ rules
 
 ##### basics
 - must complete all possible bosses in the chosen raid
-- times are taken from raid.report
+- times are taken from [raid.report](https://raid.report)
     - if multiple, differing, times are reported we will use the maximal time
 - substitution of players is not allowed
     - in cases of emergencies, at the referees' discretion
     - if a substition is allowed, return to orbit imemdiately to pause timer
-        - the two raid.report entries will be added together
+        - the two [raid.report](https://raid.report) entries will be added together
 
 ##### etiquette
 - no pulling-to-boss allowed
@@ -27,6 +27,8 @@ rules
     - cannot be used to skip encounters, rooms, puzzles, or anything that would break a requirement
     - should be clarified with a referee before use
     - are otherwise up to the interpretation of the referee(s)
+    - knwon and accepted glitches:
+        - Riven single-phase
 
 ### raid decision
 - raid numbers are listed below
